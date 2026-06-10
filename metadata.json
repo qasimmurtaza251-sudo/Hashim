@@ -1,0 +1,6 @@
+{
+  "name": "Offline-First Workspace",
+  "description": "A professional collaborative task manager running offline-first with an active queue, automatic synchronization, and mock peer clash visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
